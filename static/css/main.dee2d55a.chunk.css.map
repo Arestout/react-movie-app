@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CACpB,UAGC,cAAe,CADjB,gBAII,aAAc,CACf,QAID,iBAAkB","file":"main.dee2d55a.chunk.css","sourcesContent":["body {\n  background: #f9f9f9;\n}\n\n.nav-link {\n  cursor: pointer;\n\n  &:hover {\n    color: #007bff;\n  }\n}\n\n.center {\n  text-align: center;\n}\n"]}
